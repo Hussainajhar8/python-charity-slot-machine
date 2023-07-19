@@ -64,4 +64,3 @@ python slot_machine.py
 Remember, the primary purpose of this game is to have fun while contributing to a charitable cause. Play responsibly and only deposit an amount you are comfortable donating to charity.
 
 Enjoy the game, and thank you for supporting a good cause!
-```
