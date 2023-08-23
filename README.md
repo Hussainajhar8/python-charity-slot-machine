@@ -1,8 +1,8 @@
-# Charity Slot Machine
+# Give or more
 
 ## Purpose of the Game
 
-The Charity Slot Machine is a simple Python console-based game designed to provide entertainment and raise funds for charity. The game is inspired by the classic slot machine mechanics, but with a charitable twist. All the proceeds from the game will be donated to charity, making it a fun and rewarding way to donate and contribute to a good cause.
+Give or more, is a simple Python console-based game designed to provide entertainment and raise funds for charity. The game is inspired by the classic slot machine mechanics, but with a charitable twist. All the proceeds from the game will be donated to charity, making it a fun and rewarding way to donate and contribute to a good cause.
 
 **Disclaimer**: The creators of this game want to emphasize that they do not encourage gambling. As a Muslim organization, they believe that gambling is unlawful according to their religious beliefs. The game is intended solely for charity purposes, and players are encouraged to deposit only an amount they are willing to donate. Any extra winnings that players decide to exit the game with will be generously donated by someone who wants to encourage others to contribute to charity while having a chance of multiplying the good.
 
